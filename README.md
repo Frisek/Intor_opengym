@@ -1,2 +1,2 @@
-# Intor_opengym
+# Intro_opengym
 opengym
